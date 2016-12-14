@@ -1,0 +1,75 @@
+﻿<Window x:Class="ClientScreenCap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ClientScreenCap"
+        Title="MainWindow" Height="250" Width="525" >
+    
+    <Window.Resources>
+        <local:BitmapConverter x:Key="BmpToSource"/>
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            
+        </Grid.ColumnDefinitions>
+        
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Address:" Margin="2"/>
+        <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding IpAddress}" Margin="2"/>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Port:" Margin="2"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Port}" Margin="2"/>
+        
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal">
+            <TextBlock Text="Rows" Margin="2"/>
+            <TextBox Text="{Binding Rows}" Width="50"/>
+            <TextBlock Text="Cols" Margin="2"/>
+            <TextBox Text="{Binding Cols}" Width="50"/>
+            <TextBlock Text="Gamma:" Margin="2"/>
+            <Slider Orientation="Horizontal" Minimum="10" Maximum="50" Interval="1" Value="{Binding Gamma}" Width="100" Margin="2"/>
+            <TextBlock Text="{Binding Gamma}" Margin="2" TextAlignment="Right" Width="30"/>
+            <TextBlock Text="{Binding Status}" Margin="2" TextAlignment="Right"/>
+        </StackPanel>
+        
+        <Button Grid.Row="3" Grid.Column="1" Width="150" Command="{Binding ConnectCommand}" Margin="2">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Content" Value="Disconnect"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding IsConnected}" Value="False">
+                            <Setter Property="Content" Value="Connect"/>
+                            
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>            
+        </Button>
+        
+        <Button Grid.Row="4" Grid.Column="1" Width="150" Command="{Binding RunCommand}" Margin="2" IsEnabled="{Binding IsConnected}" >
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Content" Value="Run"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding IsRunning}" Value="True">
+                            <Setter Property="Content" Value="Stop"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+
+
+        <Image Grid.Row="5" Width="{Binding Cols}" Height="{Binding Rows}" Source="{Binding ImageSource}"/>
+        
+    </Grid>
+</Window>

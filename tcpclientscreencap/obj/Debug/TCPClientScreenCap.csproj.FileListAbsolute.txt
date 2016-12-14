@@ -1,0 +1,1 @@
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\TCPClientScreenCap\bin\Debug\TCPClientScreenCap.exe.config

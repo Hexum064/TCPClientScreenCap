@@ -1,0 +1,54 @@
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\bin\Debug\ClientScreenCap.exe.config
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\bin\Debug\ClientScreenCap.exe
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\bin\Debug\ClientScreenCap.pdb
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.csprojResolveAssemblyReference.cache
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\MainWindow.baml
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\MainWindow.g.cs
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\App.g.cs
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap_MarkupCompile.cache
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.g.resources
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.Properties.Resources.resources
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.csproj.GenerateResource.Cache
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.exe
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.pdb
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\CapWindow.baml
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\CapWindow.g.cs
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap_MarkupCompile.lref
+c:\users\branden\documents\visual studio 2013\Projects\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.CapForm.resources
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\bin\Debug\ClientScreenCap.exe.config
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.exe
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.pdb
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\bin\Debug\ClientScreenCap.exe
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\bin\Debug\ClientScreenCap.pdb
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\CapWindow.baml
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\CapWindow.g.cs
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\App.g.cs
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap_MarkupCompile.cache
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap_MarkupCompile.lref
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\MainWindow.baml
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.g.resources
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.CapForm.resources
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.Properties.Resources.resources
+C:\Users\Owner\Desktop\2016 LED Screen Project\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.csproj.GenerateResource.Cache
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\bin\Debug\ClientScreenCap.exe.config
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.exe
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.pdb
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.csprojResolveAssemblyReference.cache
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\CapWindow.baml
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\CapWindow.g.cs
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\MainWindow.g.cs
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\App.g.cs
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap_MarkupCompile.cache
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap_MarkupCompile.lref
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\bin\Debug\ClientScreenCap.exe
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\bin\Debug\ClientScreenCap.pdb
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\MainWindow.baml
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.g.resources
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.CapForm.resources
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.Properties.Resources.resources
+C:\Users\Branden\Documents\2016 LED Screen Project\TCPClientScreenCap\TCPClientScreenCap\ClientScreenCap\obj\Debug\ClientScreenCap.csproj.GenerateResource.Cache

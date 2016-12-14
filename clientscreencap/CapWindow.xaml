@@ -1,0 +1,9 @@
+﻿<Window x:Class="ClientScreenCap.CapWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CapWindow" Height="300" Width="300" Background="Transparent" AllowsTransparency="True" WindowStyle="None" MinWidth="20" MinHeight="20"
+        Topmost="True">
+
+    <Border BorderBrush="Green" BorderThickness="6" Background="#01010101" />
+
+</Window>
